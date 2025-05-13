@@ -279,14 +279,3 @@ At present, we officially aim to support the last two versions of the following 
 | HTML                                                                                                                                                                                                      | React                                                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Material Kit PRO HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-kit-pro-html/opt_mkp_thumbnail.jpg)](https://www.creative-tim.com/product/material-kit-pro) | [![Material Kit PRO React ](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-kit-pro-react/material-kit-pro-react.jpg)](https://www.creative-tim.com/product/material-kit-pro-react) |
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Material Dashboard React. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Material Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-etimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
